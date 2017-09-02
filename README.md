@@ -4,6 +4,8 @@ Live example: [https://angular-travisci-firebase.firebaseapp.com](https://angula
 
 # AngularTravisciFirebase
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/loiane/angular-travisci-firebase.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
 ## Development server
